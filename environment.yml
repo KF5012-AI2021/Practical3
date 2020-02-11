@@ -1,0 +1,6 @@
+name: practical2
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scikit-learn
